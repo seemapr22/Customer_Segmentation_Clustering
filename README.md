@@ -57,3 +57,16 @@ Promotion
 * NumCatalogPurchases: Number of purchases made using a catalogue
 * NumStorePurchases: Number of purchases made directly in stores
 * NumWebVisitsMonth: Number of visits to company’s website in the last month
+
+## Cluster Profiling
+
+| Name   |Cluster-0   |Cluster-1   |Cluster-2   |Cluster-3  |
+|--------|------------|------------|------------|-----------|
+|   Age  |   40-80    |    30-50   |   40-80    |20-30 , 80-100|
+|Income  |  40K-60K   |   <40K     |  60K-80K   |   >80K    |
+| Spent  |   <600     |   <400     |    >600    |   >800    |
+| Kid at home | mostly 2 kid | mostly 1 kid | no kid |no kid |
+|Teen at home |  1-2 teen    |   1 teen     | no teen|no teen|
+|  Children   |      2-3     |   mostly 1   | mostly 1 |  0  |
+| family size |      4-5     |      2-3     | 2-3    |  1-2  |
+| is parent ? | definitely parent | some are parent | definitely parent |  they are not parent  |
