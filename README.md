@@ -58,6 +58,10 @@ Promotion
 * NumStorePurchases: Number of purchases made directly in stores
 * NumWebVisitsMonth: Number of visits to company’s website in the last month
 
+## Conclusion
+
+In this project, I performed unsupervised clustering. I did use dimensionality reduction followed by agglomerative clustering. I came up with 4 clusters and further used them in profiling customers in clusters according to their family structures and income/spending. This can be used in planning better marketing strategies.
+
 ## Cluster Profiling
 
 | Name   |Cluster-0   |Cluster-1   |Cluster-2   |Cluster-3  |
@@ -70,3 +74,4 @@ Promotion
 |  Children   |      2-3     |   mostly 1   | mostly 1 |  0  |
 | family size |      4-5     |      2-3     | 2-3    |  1-2  |
 | is parent ? | definitely parent | some are parent | definitely parent |  they are not parent  |
+
